@@ -1,0 +1,30 @@
+Proj Title=07080102000898
+Current Plan=p01
+Default Exp/Contr=0.3,0.1
+SI Units
+Geom File=g01
+Flow File=f01
+Plan File=p01
+Y Axis Title=Elevation
+X Axis Title(PF)=Main Channel Distance
+X Axis Title(XS)=Station
+BEGIN DESCRIPTION:
+Normal depth was calculated with XS 51 and 318
+
+END DESCRIPTION:
+DSS Start Date=
+DSS Start Time=
+DSS End Date=
+DSS End Time=
+DSS Export Filename=
+DSS Export Rating Curves= 0 
+DSS Export Rating Curve Sorted= 0 
+DSS Export Volume Flow Curves= 0 
+DXF Filename=
+DXF OffsetX= 0 
+DXF OffsetY= 0 
+DXF ScaleX= 1 
+DXF ScaleY= 10 
+GIS Export Reach=07080102000898  ,07080102000898  
+GIS Export Profiles= 8 
+       1       2       3       4       5       6       7       8
