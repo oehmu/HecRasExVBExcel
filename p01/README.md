@@ -1,4 +1,4 @@
-# Steps to use run Example:
+# Steps to run Example:
 1. Open file "p01_VBAoehmu.xlsm".
 2. On cells C3 and C4 press F2 in your keyboard.
 3. Type names of cases in cells D3 and D4.
