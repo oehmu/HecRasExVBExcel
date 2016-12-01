@@ -1,5 +1,5 @@
 # Description of Files and Folders
-Both cases solvess steady flow (Gradually Varied Flow).
+Both cases solves steady flow (Gradually Varied Flow).
 
 ### folderName=**try01**
 Firts case to compare.
