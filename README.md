@@ -2,7 +2,7 @@
 ===================
 
 ## **Intro**
-Those are a series of examples in **HEC-RAS** utilizing the *HEC-RAS Controller*.
+Series of examples in **HEC-RAS** utilizing the *HEC-RAS Controller*.
 
 ---
 
